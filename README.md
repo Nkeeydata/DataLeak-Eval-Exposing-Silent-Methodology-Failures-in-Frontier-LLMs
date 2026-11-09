@@ -1,0 +1,2 @@
+# DataLeak-Eval-Exposing-Silent-Methodology-Failures-in-Frontier-LLMs
+Imagine a fintech startup building an autonomous loan default model. They use an AI coding assistant to scaffold the training and cross-validation pipeline. The AI returns clean, executable scikit-learn code. It runs with zero errors, boasts an extraordinary 94% ROC-AUC in cross-validation, and gets merged straight to production
